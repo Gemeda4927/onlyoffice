@@ -1,0 +1,28 @@
+
+# Dependencies
+node_modules/
+
+# Env
+.env
+.env.local
+
+# Builds
+dist/
+build/
+.next/
+out/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Docker volumes (if any local)
+docker-volumes/
